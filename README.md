@@ -16,7 +16,7 @@ A basic responsive version is already in place, and I'm currently working on imp
 ## 🌐 Live Preview
 
 The project is deployed on **Netlify**.  
-🔗 [Live Site]([https://your-netlify-link.netlify.app/](https://johnjohnsmith.netlify.app/])
+🔗 [Live Site]([https://your-netlify-link.netlify.app/](https://johnjohnsmith.netlify.app/))
 
 ## 📦 Run Locally
 
