@@ -18,6 +18,10 @@ A basic responsive version is already in place, and I'm currently working on imp
 The project is deployed on **Netlify**.  
 🔗 [Live Site](https://johnjohnsmith.netlify.app/)
 
+## 🖼 Preview
+
+![Preview of the landing page](preview.png)
+
 ## 📦 Run Locally
 
 To view the page locally, just open the `index.html` file in your browser. No build tools or server setup required.
